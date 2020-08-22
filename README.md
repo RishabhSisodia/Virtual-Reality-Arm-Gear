@@ -1,5 +1,5 @@
 # Project Title
-Virtual Reality Arm Gear
+**Virtual Reality Arm Gear**
 
 ## Getting Started
 * Clone the repo
@@ -14,8 +14,8 @@ Virtual Reality Arm Gear
 * Contiki OS 2.2+
 
 ## Description
-This project was made for the **Summer Internship, GAIP at National University of Singapore** under the supervision of Dr. Anand Bhojan, Dr. Chan Mun Chun and Dr. Tan Wee Kek. It provides an economical IOT solution created using CC2650, RPI3 and UNITY to mimic body motion which is projected on UNITY 3D model. 
-Regular Physiotherapy Gamification for training paralyzed subject is the main target behind the project. It also aims on training muslces memory which can be beneficial for scenario such as safety drill and VR gaming. 
+This project was made for the **Summer Internship, GAIP at National University of Singapore** under the supervision of *Dr. Anand Bhojan, Dr. Chan Mun Chun and Dr. Tan Wee Kek*. It provides an economical IOT solution created using **CC2650, RPI3 and UNITY** to mimic body motion which is projected on UNITY 3D model. 
+*Regular Physiotherapy Gamification* for training paralyzed subject is the main target behind the project. It also aims on training muslces memory which can be beneficial for scenario such as *Safety drill* and *VR Gaming*. 
 
 ## Architecture
 The architecture of the project is as follows:
@@ -31,7 +31,7 @@ The architecture of the project is as follows:
 
 ## Results
 <p align="center">
-  <img src="https://github.com/RishabhSisodia/Virtual-Reality-Arm-Gear/blob/master/demo_still.JPG" alt="Project Layout" width="400px" height="600px"/>
+  <img src="https://github.com/RishabhSisodia/Virtual-Reality-Arm-Gear/blob/master/demo_still.JPG" alt="Project Layout" width="500px" height="600px"/>
 </p>
 
 Click here to check the output video - [Link](https://github.com/RishabhSisodia/Virtual-Reality-Arm-Gear/blob/master/Live_Demo.mp4)
@@ -39,9 +39,9 @@ Click here to check the output video - [Link](https://github.com/RishabhSisodia/
 
 ## Contributors
 
-Created the project in a team with [Aayush Agarwal](https://github.com/aayush-ag21) at a month long internship at the National University of Singapore.
+Created the project in a team with *[Aayush Agarwal](https://github.com/aayush-ag21)* at a month long internship at the **National University of Singapore**.
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RishabhSisodia/Virtual-Reality-Arm-Gear/blob/master/LICENSE) file for details
